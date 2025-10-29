@@ -70,4 +70,17 @@ body {
 {
     width: 300px;
     height: auto;
+
+}
+
+@media (max-width: 768px) {
+    .apresentacao {
+        flex-direction: column;
+        gap: 20px;
+        margin: 10% 5%;
+    }
+
+    .apresentacao__imagem {
+        width: 80%;
+    }
 }
