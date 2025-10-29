@@ -37,6 +37,5 @@ A página contém duas seções principais:
 - **Texto de apresentação**: título, descrição e links de contato.  
 - **Imagem ilustrativa**: posicionada ao lado direito do texto, ajustável via CSS.  
 
-```html
-<img class="apresentacao__imagem" src="imagem.png" alt="Foto da Marcela">
+
 
