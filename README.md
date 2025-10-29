@@ -4,20 +4,24 @@ Um projeto simples e moderno de portfólio pessoal, desenvolvido com **HTML** e 
 
 ---
 
+## 💻 Sobre o Projeto
+
+Meu primeiro portfólio feito com HTML e CSS, com layout responsivo e design minimalista.  
+O projeto foi desenvolvido para praticar conceitos de estrutura, estilização e responsividade com Flexbox.
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5** → Estrutura do site  
 - **CSS3** → Estilização e layout  
+- **Flexbox** → Organização dos elementos  
 - **Google Fonts** → Tipografias *Orbitron* e *Poppins*
 
 ---
 
 ## 🧩 Estrutura do Projeto
-Portfolio/
-├── index.html
-├── style.css
-├── imagem.png
-└── README.md
+
 
 ---
 
@@ -25,17 +29,10 @@ Portfolio/
 
 - Apresenta uma introdução sobre a desenvolvedora  
 - Inclui links diretos para **Instagram** e **GitHub**  
-- Layout responsivo e estilizado com Flexbox  
-- Cores personalizadas e fonte moderna  
+- Layout responsivo e estilizado com **Flexbox**  
+- Paleta de cores personalizada e fonte moderna  
 
 ---
-
-## 🖼️ Layout
-
-A página contém duas seções principais:
-
-- **Texto de apresentação**: título, descrição e links de contato.  
-- **Imagem ilustrativa**: posicionada ao lado direito do texto, ajustável via CSS.
 
 ## 🎨 Paleta de Cores
 
@@ -45,4 +42,10 @@ A página contém duas seções principais:
 | Texto             | Branco gelo | `#f6f6f6` |
 | Destaque / Botões | Rosa        | `#EB6B93` |
 
+---
 
+## 📦 Como Clonar e Rodar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/SEU-USUARIO/portifolio.git
