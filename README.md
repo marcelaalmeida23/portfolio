@@ -35,7 +35,14 @@ Portfolio/
 A página contém duas seções principais:
 
 - **Texto de apresentação**: título, descrição e links de contato.  
-- **Imagem ilustrativa**: posicionada ao lado direito do texto, ajustável via CSS.  
+- **Imagem ilustrativa**: posicionada ao lado direito do texto, ajustável via CSS.
 
+## 🎨 Paleta de Cores
+
+| Elemento          | Cor         | Código    |
+| ----------------- | ----------- | --------- |
+| Fundo             | Preto       | `#000000` |
+| Texto             | Branco gelo | `#f6f6f6` |
+| Destaque / Botões | Rosa        | `#EB6B93` |
 
 
