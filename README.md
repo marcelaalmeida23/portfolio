@@ -13,4 +13,7 @@ Um projeto simples e moderno de portfólio pessoal, desenvolvido com **HTML** e 
 ---
 
 ## 🧩 Estrutura do Projeto
-
+/
+├── index.html
+├── style.css
+└── imagem.png
