@@ -48,4 +48,4 @@ O projeto foi desenvolvido para praticar conceitos de estrutura, estilização e
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/marcelaalmeida23/Portfolio
+   git clone https://github.com/marcelaalmeida23/Portfolio.git
